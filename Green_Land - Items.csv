@@ -1,0 +1,71 @@
+Ability,Item_Name,Description,Values_of_Upgrade,Cost_of_item
+Damage,Crimson Edge,Amplifies damage with a crimson glow.,1,50
+Damage,Wrathful Cleaver,Increases damage through wrathful energy.,2,60
+Damage,Inferno Blade,Adds fiery damage to every strike.,3,80
+Damage,Frostbrand,Deals icy damage with each attack.,4,120
+Damage,Venomous Dagger,Inflicts poison damage on critical hits.,5,180
+Damage,Thunderstrike,Channels lightning to enhance damage.,6,260
+Damage,Shadowfang,Adds shadow damage to each blow.,7,360
+Damage,Blazing Axe,Infuses strikes with intense heat.,8,480
+Damage,Spectral Scythe,Increases damage with spectral energy.,9,640
+Damage,Bloodthirsty Saber,Deals more damage based on enemy’s health.,10,800
+Armor,Titanium Shield,Provides superior protection with titanium.,1,50
+Armor,Dragonhide Armor,Offers enhanced armor with dragon scales.,2,60
+Armor,Ironclad Plate,Increases durability with iron plating.,3,80
+Armor,Steel Fortress,Boosts defense with reinforced steel.,4,120
+Armor,Crystal Barrier,Adds magical protection with crystalline armor.,5,180
+Armor,Golden Aegis,Offers premium protection with golden plates.,6,260
+Armor,Shadow Guard,Enhances armor with shadowy protection.,7,360
+Armor,Ancient Helm,Increases armor with ancient runes.,8,480
+Armor,Celestial Shield,Provides divine protection with celestial energy.,9,640
+Armor,Mystic Mail,Boosts armor with enchanted mail.,10,800
+Strength,Colossus Gauntlets,Increases strength with colossal power.,1,50
+Strength,Herculean Belt,Enhances physical power with Herculean might.,2,60
+Strength,Titan's Brace,Boosts strength with Titan’s energy.,3,80
+Strength,Warrior’s Cuirass,Amplifies strength with battle-ready armor.,4,120
+Strength,Mighty Pendant,Adds strength with a pendant of power.,5,180
+Strength,Gladiator’s Pauldrons,Increases strength with gladiatorial influence.,6,260
+Strength,Fist of Atlas,Provides strength with Atlas’s power.,7,360
+Strength,Champion’s Ring,Enhances strength with a champion’s touch.,8,480
+Strength,Iron Fist,Boosts strength with iron-infused might.,9,640
+Strength,Berserker’s Belt,Amplifies strength through berserk energy.,10,800
+Agility,Swiftfoot Boots,Increases agility with speed-enhancing design.,1,50
+Agility,Nimble Cloak,Enhances agility with a cloak of swiftness.,2,60
+Agility,Phantom Gloves,Boosts agility with ghostly precision.,3,80
+Agility,Shadowstep Shoes,Increases agility with shadowy steps.,4,120
+Agility,Eagle’s Wings,Enhances agility with the grace of an eagle.,5,180
+Agility,Quickstrike Bracers,Boosts agility with quickstrike technology.,6,260
+Agility,Fleetfoot Sandals,Increases agility with fleetfoot enchantment.,7,360
+Agility,Spectral Boots,Enhances agility with spectral speed.,8,480
+Agility,Dancer’s Treads,Boosts agility with dance-like movements.,9,640
+Agility,Lightfoot Leggings,Increases agility with lightweight design.,10,800
+Intelligence,Mystic Orb,Boosts intelligence with arcane energy.,1,50
+Intelligence,Sage’s Tome,Increases intelligence with sage’s wisdom.,2,60
+Intelligence,Arcane Crown,Enhances intelligence with arcane power.,3,80
+Intelligence,Wisdom Staff,Provides intelligence with a staff of wisdom.,4,120
+Intelligence,Oracle’s Amulet,Increases intelligence with prophetic energy.,5,180
+Intelligence,Enchanted Scepter,Boosts intelligence with magical enchantment.,6,260
+Intelligence,Wizard’s Robe,Enhances intelligence with wizardly attire.,7,360
+Intelligence,Runic Pendant,Provides intelligence with ancient runes.,8,480
+Intelligence,Sorcerer’s Hat,Increases intelligence with sorcerous power.,9,640
+Intelligence,Celestial Tome,Boosts intelligence with celestial knowledge.,10,800
+Speed,Hurricane Boots,Increases speed with hurricane force.,0.1,50
+Speed,Lightning Spikes,Boosts speed with lightning-infused spikes.,0.2,60
+Speed,Windwalker Sandals,Enhances speed with windwalker enchantment.,0.3,80
+Speed,Blazing Spurs,Increases speed with blazing heat.,0.4,120
+Speed,Zephyr Wings,Boosts speed with zephyr’s grace.,0.5,180
+Speed,Stormstride Shoes,Enhances speed with storm energy.,0.6,260
+Speed,Swiftstride Boots,Increases speed with swiftstride magic.,0.7,360
+Speed,Gale Boots,Boosts speed with gale force.,0.8,480
+Speed,Thunderfoot Sandals,Enhances speed with thunderous power.,0.9,640
+Speed,Vortex Sneakers,Increases speed with vortex energy.,1,800
+Movement,Hurricane Steps,Increases movement speed with hurricane power.,0.1,50
+Movement,Rapidstride Boots,Enhances movement with rapidstride technology.,0.2,60
+Movement,Velocity Cloak,Boosts movement with velocity enchantment.,0.3,80
+Movement,Teleportation Boots,Increases movement with teleportation magic.,0.4,120
+Movement,Supersonic Sneakers,Enhances movement with supersonic speed.,0.5,180
+Movement,Warpstride Sandals,Boosts movement with warp energy.,0.6,260
+Movement,Swift Marchers,Increases movement with swift marching power.,0.7,360
+Movement,Gale Footwear,Enhances movement with gale force.,0.8,480
+Movement,Phase Walkers,Boosts movement with phasing technology.,0.9,640
+Movement,Temporal Boots,Increases movement with temporal shifts.,1,800

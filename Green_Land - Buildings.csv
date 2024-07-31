@@ -1,0 +1,58 @@
+Building,Race,Description,Gold_Cost,Lumber_Cost
+Town Hall,Human,Primary structure for resource gathering (Gold and Lumber).,385,205
+Farm,Human,Increases population limit.,80,20
+Barracks,Human,Trains basic infantry units.,180,50
+Arcane Vault,Human,Stores items and reveals an area of the map.,130,30
+Blacksmith,Human,Upgrades weapons and armor.,140,60
+Church,Human,Heals nearby units.,195,80
+Workshop,Human,Constructs mechanical units and upgrades.,140,140
+Keep / Castle,Human,"Upgraded versions of the Town Hall, unlock advanced units and technologies.",1000,600
+Tower,Human,Defensive structure that attacks enemies within range.,90,20
+Great Hall,Orc,Primary structure for resource gathering (Gold and Lumber).,385,185
+Barracks,Orc,Trains Grunts and other infantry units.,180,50
+War Mill,Orc,Upgrades weapons and armor for units.,120,50
+Spirit Lodge,Orc,Trains spellcasters and shamans.,150,150
+Beastiary,Orc,Trains raiders and kodo beasts.,145,60
+Tauren Totem,Orc,Trains tauren and spirit walkers.,135,60
+Voodoo Lounge,Orc,Stores items and reveals an area of the map.,130,30
+Stronghold / Fortress,Orc,"Upgraded versions of the Great Hall, unlock advanced units and technologies.",1000,600
+Watch Tower,Orc,Defensive structure that attacks enemies within range.,70,30
+Totem,Tauren,Primary structure for resource gathering (Gold and Lumber).,385,185
+Hut,Tauren,Increases population limit.,80,20
+Longhouse,Tauren,Trains basic infantry units.,180,50
+Spirit Lodge,Tauren,Trains spellcasters and shamans.,150,150
+Beastiary,Tauren,Trains raiders and kodo beasts.,145,60
+Tauren Totem,Tauren,Trains tauren and spirit walkers.,135,60
+Voodoo Lounge,Tauren,Stores items and reveals an area of the map.,130,30
+Fortress,Tauren,"Upgraded versions of the Totem, unlock advanced units and technologies.",1000,600
+Watch Tower,Tauren,Defensive structure that attacks enemies within range.,70,30
+Tree of Life,Night Elf,Primary structure for resource gathering (Gold and Lumber).,385,185
+Ancient of War,Night Elf,Trains archers and huntresses.,150,60
+Ancient of Lore,Night Elf,Trains spellcasters (Druids of the Talon and Druids of the Claw).,155,145
+Ancient of Wind,Night Elf,Constructs flying units (Hippogryphs and Chimaeras).,140,140
+Hunter's Hall,Night Elf,Upgrades weapons and armor for ground units.,210,100
+Chimaera Roost,Night Elf,Constructs Chimaeras.,160,160
+Moon Well,Night Elf,Provides mana regeneration for units.,180,40
+Ancient Protector,Night Elf,Defensive structure that attacks ground units.,135,60
+Necropolis,Undead,Primary structure for resource gathering (Gold and Lumber).,385,185
+Crypt,Undead,Trains ghouls and other basic undead units.,120,30
+Tomb of Relics,Undead,Stores items and researches upgrades.,130,30
+Slaughterhouse,Undead,Constructs abominations and meat wagons.,140,70
+Temple of the Damned,Undead,Trains necromancers and banshees.,160,50
+Halls of the Dead,Undead,"Upgraded versions of the Necropolis, unlock advanced units and technologies.",1000,600
+Spirit Tower,Undead,Defensive structure that attacks enemies and detects invisible units.,80,20
+Nerubian Tower,Undead,Defensive structure that attacks enemies and slows their movement.,100,50
+Ziggurat,Undead,Provides food and trains shades.,120,50
+Sanctum,Blood Elf,Primary structure for resource gathering (Gold and Lumber).,385,185
+Bloodspire,Blood Elf,Trains blood mages and spellbreakers.,150,60
+Magistry,Blood Elf,Researches magical upgrades and abilities.,165,135
+Phoenix Roost,Blood Elf,Constructs phoenixes and dragonhawks.,140,140
+Spellbreaker Citadel,Blood Elf,"Upgraded versions of the Sanctum, unlock advanced units and technologies.",1000,600
+Sunwell,Blood Elf,Provides mana regeneration and buffs nearby units.,180,40
+Trade Post,Goblin,Primary structure for resource gathering (Gold and Lumber).,385,185
+Engineering Bay,Goblin,Constructs mechanical units and upgrades.,145,75
+Chemical Plant,Goblin,Produces volatile compounds for weaponry.,160,60
+Goblin Laboratory,Goblin,Researches experimental technologies and traps.,155,65
+Goblin Foundry,Goblin,Constructs heavy vehicles and demolishers.,180,110
+Blast Furnace,Goblin,"Upgraded versions of the Trade Post, unlock advanced units and technologies.",1000,600
+Oil Platform,Goblin,Extracts oil from deep sea reserves.,140,70

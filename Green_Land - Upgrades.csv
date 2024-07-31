@@ -1,0 +1,36 @@
+Ability,Level_of_Upgrade ,Values_of_Upgrade,Cost_of_Upgrade
+Damage,Edge of Precision,2,2
+Damage,Razor Fury,4,4
+Damage,Blade Mastery,6,12
+Damage,Inferno Strike,8,32
+Damage,Apocalypse Slash,10,70
+Armor,Ironclad Fortitude,1,1
+Armor,Steel Resolve,2,4
+Armor,Titanium Bastion,3,9
+Armor,Diamond Aegis,4,16
+Armor,Eternal Guardian,5,35
+Strength,Might of Titans,2,2
+Strength,Colossus Power,4,8
+Strength,Herculean Force,6,18
+Strength,Atlas Strength,8,32
+Strength,Olympian Prowess,10,70
+Agility,Fleetfoot Dexterity,2,2
+Agility,Shadow Dance,4,8
+Agility,Nimble Reflexes,6,18
+Agility,Phantom Grace,8,32
+Agility,Ethereal Swiftness,10,70
+Intelligence,Arcane Insight,2,2
+Intelligence,Mystic Wisdom,4,8
+Intelligence,Sage's Knowledge,6,18
+Intelligence,Oracle's Vision,8,32
+Intelligence,Divine Enlightenment,10,70
+Speed,Windrunner Speed,0.02,2
+Speed,Lightning Dash,0.04,4
+Speed,Storm Surge,0.06,12
+Speed,Zephyr Flight,0.08,32
+Speed,Chrono Warp,0.1,70
+Movement,Swift Step,0.02,2
+Movement,Hurricane Stride,0.04,4
+Movement,Velocity March,0.06,12
+Movement,Supersonic Pace,0.08,32
+Movement,Temporal Leap,0.1,70
